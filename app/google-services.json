@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136886082768",
+    "firebase_url": "https://testlogindjtme-default-rtdb.firebaseio.com",
+    "project_id": "testlogindjtme",
+    "storage_bucket": "testlogindjtme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136886082768:android:901b86267a4d117faf52d5",
+        "android_client_info": {
+          "package_name": "com.example.dvd24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136886082768-sp06ikkirgrv88nq1c08mo0p3lfnual1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNeYsa9Gkn-u0bTF-yhPQtiMv6ABHV5e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136886082768-sp06ikkirgrv88nq1c08mo0p3lfnual1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

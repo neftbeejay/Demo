@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DVD24</string>
+    <string name="api_key">b166089717b74c78aed4fb148c3ca0a8</string>
+
+    <string name="menu_drawer_open">Drawer Open</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+</resources>
